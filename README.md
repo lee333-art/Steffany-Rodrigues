@@ -4,3 +4,6 @@
 📚 Compartilhando atividades e projetos do curso  
 🛠 Tecnologias: JavaScript
 🌱 Sempre aprendendo e evoluindo em programação  
+🔗 [LinkedIn]  www.linkedin.com/in/steffany-rodrigues-628642383
+
+
